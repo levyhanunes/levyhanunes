@@ -36,7 +36,7 @@ const importantLinks = {
 
 
 
-## 🌱 Estou aprendendo Kotlin/Java/Spring
+## 🌱 Estou aprendendo Swift/Kotlin/Java/Spring
 
   Meu portfólio esta aqui e no: https://levyhenrique.com.br/ "Não está pronto ainda"
 
