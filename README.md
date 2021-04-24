@@ -8,7 +8,7 @@
 
 Sou estudante de análise e desenvolvimento de sistemas na UNIP.
 
-Atualmente eu estou estudando desenvolvimento mobile e também faço alguns freelances na área de desenvolvimento web. Tive a oportunidade de trabalhar em projetos de amigos e pequenas empresas criando seus respectivos sites e aplicativos.
+Atualmente eu estou estudando desenvolvimento mobile e também faço alguns freelances na área de desenvolvimento web. Tive a oportunidade de trabalhar em projetos de amigos e empresas criando seus respectivos sites e aplicativos.
 
 Quero muito me desenvolver profissionalmente para que um dia eu possa me tornar um grande
 desenvolvedor.
@@ -23,6 +23,7 @@ const importantLinks = {
 
 **Languages and Tools 🚀**
 
+<a href="https://www.apple.com/br/swift/" title="Swift"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/swift.svg" alt="Java" width="21px" height="21px"></a>
 <a href="https://docs.oracle.com/en/java/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="21px" height="21px"></a>
 <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/" title="Spring"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/spring.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/kotlin.svg" alt="Kotlin" width="21px" height="21px"></a>
