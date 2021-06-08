@@ -4,7 +4,7 @@
 
 
 
-## 🔭 Atualmente estou atuando como desenvolvedor iOS Junior na BRQ Digital Solutions <3
+## 🔭 Atualmente estou atuando como desenvolvedor iOS na BRQ Digital Solutions <3
 
 Sou estudante de análise e desenvolvimento de sistemas na UNIP.
 
