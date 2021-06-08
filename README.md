@@ -4,7 +4,7 @@
 
 
 
-## 🔭 Atualmente estou estudando e procurando um estágio
+## 🔭 Atualmente estou atuando como desenvolvedor iOS Junior na BRQ Digital Solutions <3
 
 Sou estudante de análise e desenvolvimento de sistemas na UNIP.
 
