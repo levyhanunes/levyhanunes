@@ -1,18 +1,5 @@
 ## Hello, I’m Levy Henrique Alves Nunes 🤙
 
-
-
-
-
-## 🔭 Atualmente estou atuando como desenvolvedor iOS na BRQ Digital Solutions <3
-
-Sou estudante de análise e desenvolvimento de sistemas na UNIP.
-
-Atualmente eu estou estudando desenvolvimento mobile e também faço alguns freelances na área de desenvolvimento web. Tive a oportunidade de trabalhar em projetos de amigos e empresas criando seus respectivos sites e aplicativos.
-
-Quero muito me desenvolver profissionalmente para que um dia eu possa me tornar um grande
-desenvolvedor.
-
 ```j
 const importantLinks = {
    📒 Linkedin: 'https://www.linkedin.com/in/levyhanunes/', 
