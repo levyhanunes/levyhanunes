@@ -31,8 +31,4 @@ const importantLinks = {
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levyhanunes&hide=contribs,prs)
 
-
-
-<p align="center">
-    <a href="https://github.com/levyhanunes" target="_blank"><img alt="llevyhanunes" src="https://badges.pufler.dev/visits/levyhanunes/levyhanunes?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
-</p>
+<a href="https://app.daily.dev/levyhanunes"><img src="https://api.daily.dev/devcards/5652a247ffec47be95e120261cadf246.png?r=r2n" width="400" alt="Levy Henrique Alves Nunes's Dev Card"/></a>
