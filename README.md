@@ -31,4 +31,4 @@ const importantLinks = {
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levyhanunes&hide=contribs,prs)
 
-<a href="https://app.daily.dev/levyhanunes"><img src="https://api.daily.dev/devcards/5652a247ffec47be95e120261cadf246.png?r=r2n" width="400" alt="Levy Henrique Alves Nunes's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/levyhanunes/levyhanunes/blob/main/devcard.svg" width="400" alt="Levy Henrique Dev Card"/></a>
