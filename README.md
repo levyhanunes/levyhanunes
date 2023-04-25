@@ -21,7 +21,7 @@ const importantLinks = {
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=levyhanunes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🌱 Estou aprendendo desenvolvimento iOS - Swift
+## 🌱 Software Engineer - Mobile e Fronend
 
   Meu portfólio esta aqui e no: https://levyhenrique.com.br/ "Não está pronto ainda"
 
