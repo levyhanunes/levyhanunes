@@ -23,7 +23,7 @@ const importantLinks = {
 
 ## 🌱 Software Engineer - Mobile e Fronend
 
-  Meu portfólio esta aqui e no: https://levyhenrique.com.br/ "Não está pronto ainda"
+  Meu portfólio esta aqui e no: [https://levyhenrique.com.br/](https://rivaille.netlify.app) "Não está pronto ainda, um dia quem sabe eu termine"
 
 
 
